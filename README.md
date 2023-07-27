@@ -10,7 +10,7 @@ git clone git@github.com:nastiche/cv-template-junior-web-developer.git
 
 ## Change image shape
 
-You can crop your image into a circular shape by changing its border radius
+You can crop your image into a circular shape by changing its border radius:
 
 ```css
 .profile_container img {
@@ -27,7 +27,7 @@ You can crop your image into a circular shape by changing its border radius
 
 ## Replace dummy links!
 
-Remember to replace dummy links (href attribute) in the Socials and Contact sections to your own ones
+Remember to replace dummy links (href attribute) in the Socials and Contact sections with your own ones
 
 ## Change icons in the Interest and Socials sections
 
@@ -35,7 +35,7 @@ You can use icons from the https://icons8.com/ (iOS16 Filled style)
 
 ## Add more pages
 
-You can add more pages with `<div class="page"></div>`
+You can add more pages with `<div class="page"></div>`:
 
 ```html
 <body>
