@@ -8,7 +8,21 @@
 git clone git@github.com:nastiche/cv-template-junior-web-developer.git
 ```
 
-## Change image shape
+## Change the color palette
+
+Replace given color variables with your color palette
+
+```css
+:root {
+  --primary-color: #0d6c9c;
+  --secondary-color: #18a8cd;
+  --text-color: #000000;
+  --black-color: #000000;
+  --white-color: #ffffff;
+}
+```
+
+## Change the profile image shape
 
 You can crop your image into a circular shape by changing its border radius:
 
