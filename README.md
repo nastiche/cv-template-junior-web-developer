@@ -1,6 +1,6 @@
 # CV template for a junior web developer
 
-![cv_template](images/cvTemplate.png)
+![cv_template](images/cvTemplateScreenshot.png)
 
 ## Installation
 
