@@ -8,6 +8,10 @@
 git clone git@github.com:nastiche/cv-template-junior-web-developer.git
 ```
 
+## Open HTML file
+
+Open index.html in your browser to see the template (dotted page border is not seen later in the PDF file)
+
 ## Change the color palette
 
 Replace given color variables with your color palette
